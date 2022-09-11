@@ -1,1 +1,2 @@
-https://nyoosteven.github.io/os222/TXT/mylog.txt
+1. 	https://nyoosteven.github.io/os222/TXT/mylog.txt
+	tentang keseharian OS 2022 	
