@@ -9,4 +9,7 @@ A website for learning and trying regex patterns. The website will display an ex
 2. [TLX](https://tlx.com/)<br/>
 A website for learning Competitive Programming. The website will display all courses about algorithms.
 
+3. [Kaggle](https://www.kaggle.com/)<br/>
+A website for study data science. Kaggle is an online community of data scientists and machine learning practitioners.
+
 
