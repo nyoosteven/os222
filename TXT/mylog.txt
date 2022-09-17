@@ -24,3 +24,4 @@ ZCZC W02 100 L02 OS B Class
 ZCZC W02 30 L15 Assignment #05
 ZCZC W02 30 L16 Assignment #06
 ZCZC W02 100 L02 OS B Class
+ZCZC W02 100 L26 GnuPG, key-gen, encrypt/decrypt.
