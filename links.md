@@ -15,4 +15,6 @@ A website for learning Competitive Programming. The website will display all cou
 3. [Kaggle](https://www.kaggle.com/)<br/>
 A website for study data science. Kaggle is an online community of data scientists and machine learning practitioners.
 
-
+## Week 03
+3. [Towards Data Science](https://towardsdatascience.com/)<br/>
+A website for beginner learning about data science. Towards Data Science is an online community of data scientists.

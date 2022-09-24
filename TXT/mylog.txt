@@ -24,4 +24,13 @@ ZCZC W02 100 L02 OS B Class
 ZCZC W02 30 L15 Assignment #05
 ZCZC W02 30 L16 Assignment #06
 ZCZC W02 100 L02 OS B Class
+ZCZC W03 100 L06 Reading Assignments
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 100 L02 OS B Class
+ZCZC W03 30 L21 Trying Something
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 40 L08 OS Chat related
+ZCZC W03 10 L41 TXT/mylog.txt
+ZCZC W03 100 L99 Offline Class
+ZCZC W03 10 L05 Quiz related including studying
 ZCZC W02 100 L26 GnuPG, key-gen, encrypt/decrypt.
