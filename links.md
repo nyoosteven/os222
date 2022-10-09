@@ -22,3 +22,9 @@ A website for beginner learning about data science. Towards Data Science is an o
 ## Week 04
 4. [Tutorials Points](https://www.tutorialspoint.com/operating_system/index.htm)<br/>
 A website for tutorials point for studying Operating Systems. You can study operating system with many materials and syntz in here.
+
+## Week 05
+5. [OS 222](https://osp4diss.vlsm.org/W05-01.html)
+Materi ajar OS pada Week 05.
+6. [Codeforces](https://codeforces.com/)
+A website for learning Competitive Programming. This website is open public for free. You can meet amazing compititive programming around the world.
