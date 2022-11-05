@@ -65,3 +65,19 @@ ZCZC W05 60 L05 Quiz related including studying
 ZCZC W05 60 L14 Assignment #04
 ZCZC W05 30 L15 Assignment #05
 ZCZC W05 60 L70 Studying for other courses.
+ZCZC W06 120 L02 OS B Class
+ZCZC w06 120 L06 Reading Assignments
+ZCZC W06 120 L99 Offline Class
+ZCZC W06 30 L21 Trying Something
+ZCZC w06 30 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 30 L25 C-language including Make.
+ZCZC W06 20 L41 TXT/mylog.txt related.
+ZCZC W06 20 L42 TXT/mypubkey.txt related.
+ZCZC W06 100 L64 Helping a friend
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 10 L03 Github and git related, including commit, push, pull
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 60 L14 Assignment #04
+ZCZC W06 30 L15 Assignment #05
+ZCZC W06 60 L70 Studying for other courses.
