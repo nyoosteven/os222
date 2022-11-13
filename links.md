@@ -35,3 +35,16 @@ Although this slide is presented in C++, I think if you want to learn more about
 
 8. [Memory Mapping in UNIX](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
 Another article to read if you wish to understand about how to allocate memory. I personally don't really understand before reading this article, and I think it helps me a bit of understanding how it really works.
+
+## Week 07
+9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+   **Virtual Memory** is a storage allocation scheme in which secondary memory can be addressed as though it were part of main memory. GeekForGeeks sums up pretty much everything there's to know about virtual memory! let's take a look!
+
+10.[Cache Memory](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+   **Cache Memory** is a special very high-speed memory. It is used to speed up and synchronizing with high-speed CPU. Let's learn about Cache Memory on this article!
+
+11. [Memory System Performance](https://www.sciencedirect.com/topics/computer-science/memory-system-performance)<br>
+   We have read everything about memory system. Let's finish it up with learning its performance!
+
+12. [Demand Paging](https://www.javatpoint.com/os-demand-paging)<br>
+   In order to utilize memory well, OS decides which pages need to be kept in the main memory and which need to be kept in the secondary memory. This concept is called **Demand Paging**!
