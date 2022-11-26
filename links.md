@@ -58,3 +58,21 @@ This is the channel I used and was recommended by Mr Rahmat to use as reference 
 
 15. [Linux From Scratch](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
 This article is written in Indonesia, so it's a good read for you to understand LFS. I greatly recommend this website to be read out to get the grasp of what LFS really is.
+
+## Week 09
+
+16. [What is RAID 5?](https://rayday.me/comweb/internet/Commodore/commodore/www.commodore.ca/windows/raid5/raid5.htm)<br>
+This is the backup copy of the website mentioned on the course's slide material.
+Even though the UI is kinda unpleasant, the information and visualization are very helpful to help you to understand about RAID 5.
+I recommend this website as a headstart to understand about RAID 5.
+
+17. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid)<br>
+This is a comprehensive article about RAID.
+It has an extensive information about RAID 0, 1, 5, 6, and 10.
+There are some visualization, too, to help you to comprehend the materials better.
+I recommend this article as a headstart to understand the basics of RAID.
+
+18. [Mengenal Komponen Server: Tipe RAID dan Tingkatannya](https://mebiso.com/mengenal-komponen-server-tipe-raid-dan-tingkatannya/)<br>
+This is a good introductory aricle about RAID, too.
+It is written in Indonesian, so I think this is more helpful to the one who don't really understand English materials.
+I recommend this as a supplement to comprehend about the basics of RAID.
